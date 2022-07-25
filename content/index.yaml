@@ -9,7 +9,8 @@ template:
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: http://kutang0.github.io/emablog/content
+  editBaseUrl: https://github.com/kutang0/emablog/tree/master/content
+  
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
