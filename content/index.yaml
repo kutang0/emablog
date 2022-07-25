@@ -2,14 +2,14 @@
 # https://github.com/srid/emanote/blob/master/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: TGu Simple Cards
 
 template:
   theme: red
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/srid/emanote-template/edit/master/content
+  editBaseUrl: http://kutang0.github.io/emablog/content
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
